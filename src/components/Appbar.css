@@ -1,0 +1,18 @@
+.App-bar-header{
+    font-family: sans-serif;
+    background-color: #c2ddd5;
+    display: flex;
+    padding: 15px 20px;
+    align-items: center;
+}
+.img-logo {
+    object-fit: contain;
+    height: 40px;
+    padding-right: 10px;
+  }
+
+.Title{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: sans-serif;
+  }
